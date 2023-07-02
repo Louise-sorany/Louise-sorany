@@ -4,6 +4,8 @@
 <h2 align="left">Hi 👋! My name is Louise😊👩  Aqui você verá a evolução do meu aprendizado.✨ .</h2>
 
 ###
+![Estatísticas Github de Louise] (https://github-readme-stats.vercel.app/ api?username = Louise-sorany_icons= true & theme = drácula
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -46,4 +48,6 @@
 </div>
 
 ###
+
+![gif da cobra] (https://github.com/Louise-sorany/louise-sorany/blob/output/github-contribution-grid-snake.svg
 
