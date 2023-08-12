@@ -60,6 +60,6 @@
 
 ###
 
-![gif da cobra] (https://github.com/Louise-sorany/louise-sorany/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Louise-sorany/Louise-sorany/blob/output/github-contribution-grid-snake.svg)
 
 
