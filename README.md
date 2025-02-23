@@ -1,7 +1,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Louise😊👩  Aqui você verá a evolução do meu aprendizado.✨ .</h2>
+<h2 align="left">Hi 👋! My name is Louise😊👩  ✨ .</h2>
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louise-sorany)](https://github.com/Louise-sorany/github-readme-stats)
