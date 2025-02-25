@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louise-sorany)](https://github.com/Louise-sorany/github-readme-stats)
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -60,6 +60,6 @@
 
 ###
 
-![Snake animation](https://github.com/Louise-sorany/Louise-sorany/blob/output/github-contribution-grid-snake.svg)
+
 
 
